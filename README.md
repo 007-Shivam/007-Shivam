@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/shivambhosle/home](https://sites.google.com/view/shivambhosle/home)
 
-- 📫 How to reach me **shivambhosle270903@gmail.com**
+- 📫 How to reach me **shivam.bhosle@yahoo.com**
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3><hr>
