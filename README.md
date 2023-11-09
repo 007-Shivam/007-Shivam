@@ -7,7 +7,7 @@
 	<img src="https://komarev.com/ghpvc/?username=007-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="007-shivam" /> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/shivambhosle/home](https://sites.google.com/view/shivambhosle/home)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shivambhosle.vercel.app/)
 
 - 📫 How to reach me **shivam.bhosle@yahoo.com**
 
