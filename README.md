@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)
 
-- 📫 How to reach me **shivambhosle270903@gmail.com**
+- 📫 How to reach me **shivambhosle.work@gmail.com**
 
 <h3 align="left">💻 Tech Stack</h3><hr>
 <p align="center"> 
