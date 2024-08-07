@@ -1,150 +1,93 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Shivam Bhosle</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<h5 align="center">🤝🏻Please feel free to reach out if you want to collaborate on a project or just want to connect</h5>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=007-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="007-shivam" /> 
 </p>
 
-- 👨‍💻 All of my work is available at my [Portfolio](https://shivambhosle.vercel.app/)
-
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)
-
-- 📫 How to reach me **shivambhosle.work@gmail.com**
-
-<h3 align="left">💻 Tech Stack</h3><hr>
-<p align="center"> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/android-%3DDC84C.svg?style=plastic&logo=android&logoColor=white" alt="android" width="80" height="20"/> 
-    </a>
-   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/beautiful%20soup-%23ffffff.svg?style=plastic&logo=beautifulsoup&logoColor=white" alt="beautifulsoup" width="80" height="20"/> 
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="c" width="50" height="20"/> 
-    </a>
-   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="cpp" width="50" height="20"/> 
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" alt="dart" width="80" height="20"/> 
-    </a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="fastapi" width="80" height="20"/> 
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="figma" width="80" height="20"/> 
-    </a>
-    <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="firebase" width="80" height="20"/> 
-    </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" alt="flask" width="80" height="20"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white" alt="flutter" width="80" height="20"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/git-ff0000?style=plastic&logo=git&logoColor=white" alt="git" width="60" height="20"/> 
-    </a>
-    <a href="https://docs.github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/github-121013?style=plastic&logo=github&logoColor=white" alt="github" width="80" height="20"/> 
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/23454fc6-c786-4c24-bd69-24ffd7f1f623" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="gcp" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="java" width="80" height="20"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="80" height="20"/> 
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/jetpack%20compose-%3DDC84C.svg?style=plastic&logo=kotlin&logoColor=white" alt="jetpack compose" width="80" height="20"/> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white" alt="kotlin" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/linux-%23e24d0e.svg?style=plastic&logo=linux&logoColor=white" alt="linux" width="80" height="20"/> 
-    </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" alt="matplotlib" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=plastic&logo=mysql&logoColor=black" alt="mysql" width="80" height="20"/> 
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="numpy" width="80" height="20"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="pandas" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="php" width="60" height="20"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="python" width="80" height="20"/> 
-    </a>
-    <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" alt="r" width="50" height="20"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" width="80" height="20"/> 
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react-native" width="80" height="20"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit_learn" width="80" height="20"/> 
-    </a> 
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/selenium-%2300b400.svg?style=plastic&logo=selenium&logoColor=white" alt="selenium" width="80" height="20"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="tailwind" width="80" height="20"/> 
-    </a>
-</p><br>
+<h1 align="center">Hi 👋, I'm Shivam Bhosle</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+<h5 align="center">🤝🏻Please feel free to reach out if you want to collaborate on a project or just want to connect</h5>
 
 
-<p align="left">
-  <h3>🏆 GitHub Trophies</h3><hr>
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+[![Linkedin Badge](https://img.shields.io/badge/-shivambhosle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivambhosle007/)](https://www.linkedin.com/in/shivambhosle007/)
+[![Instagram Badge](https://img.shields.io/badge/-shivam__2709-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shivam__2709?igsh=MWx5ZDAyem85cDBpaQ==)](https://www.instagram.com/shivam__2709?igsh=MWx5ZDAyem85cDBpaQ==)
+[![Gmail Badge](https://img.shields.io/badge/-shivambhosle.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivambhosle.work@gmail.com)](mailto:shivambhosle.work@gmail.com)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://shivambhosle.vercel.app/)](https://shivambhosle.vercel.app/)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-%23f09a1a.svg?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/https://leetcode.com/shivam__007/)](https://www.leetcode.com/https://leetcode.com/shivam__007/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-brown?style=flat-square&logo=googledocs&logoColor=white&link=https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)](https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)
+
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=007-shivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+### Language :
+
+![C](https://img.shields.io/badge/-c-%2300599C.svg?style=flat-square&logo=c)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Dart](https://img.shields.io/badge/-dart-%230175C2.svg?style=flat-square&logo=dart)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-%23F7931E.svg?style=flat-square&logo=mysql&logoColor=black)
+![Php](https://img.shields.io/badge/-php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-r-%23276DC3.svg?style=flat-square&logo=r)
+![Tailwind](https://img.shields.io/badge/-tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+### Libraries & Framework :
+
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-%23ffffff.svg?style=flat-square&logo=beautifulsoup)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-%23F24E1E.svg?style=flat-square&logo=firebase)
+![Flask](https://img.shields.io/badge/-flask-%23000.svg?style=flat-square&logo=flask)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B.svg?style=flat-square&logo=Flutter)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-%3DDC84C.svg?style=flat-square&logo=kotlin&logoColor=white)
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib)
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+![React](https://img.shields.io/badge/-react-%2320232a.svg?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-react_native-%2320232a.svg?style=flat-square&logo=react)
+![Scikit Learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%2300b400.svg?style=flat-square&logo=selenium&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+
+
+### DevOps & Cloud Tools :
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23ffffff?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+
+
+### Tools/Platforms :
+
+![Android](https://img.shields.io/badge/Android-%3DDC84C.svg?style=flat-square&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23D00000.svg?style=flat-square&logo=figma&logoColor=white)
+![Github](https://img.shields.io/badge/Github-121013?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/Linux-%23e24d0e.svg?style=flat-square&logo=linux&logoColor=white)
+
+
+### 🏆 GitHub Trophies :
+
+<p align="center">
+	
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=007-Shivam&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="007-shivam" />
-	</a> 
+  </a>
 </p>
 
-<p>
-    <h3>📊 GitHub Stats</h3><hr>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007-Shivam&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="007-shivam" />
-    </p>
-    <p align="right">&nbsp;
-        <img  src="https://github-readme-stats.vercel.app/api?username=007-Shivam&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="007-shivam" />
-    </p>
-    <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007-Shivam&theme=dark&hide_border=false" alt="007-shivam" />
-    </p>
-</p><br>
 
+### 📊 GitHub Stats :
 
-<h3 align="left">🌐 Socials</h3><hr>
-<p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-b-703863229" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shivam-b-703863229" height="20" width="80" />
-    </a>
-    <a href="https://instagram.com/shivam__2709" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="shivam__2709" height="20" width="80" />
-    </a>
-    <a href="https://www.leetcode.com/https://leetcode.com/shivam__007/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Leetcode-%23f09a1a.svg?logo=Leetcode&logoColor=white" alt="" height="20" width="80" />
-    </a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/shivamb007" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Codechef-%23785242.svg?logo=Codechef&logoColor=white"
-        alt="https://www.codechef.com/users/shivamb007" height="20" width="80" />
-    </a>
-</p><br>
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=007-shivam&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=007-shivam&theme=tokyonight" />
+</p>
+
