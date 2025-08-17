@@ -1,5 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=007-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="007-shivam" /> 
 </p>
@@ -10,11 +8,12 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-shivambhosle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivambhosle007/)](https://www.linkedin.com/in/shivambhosle007/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Shivam%20Bhosle-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/shivambhosle007/)](https://www.linkedin.com/in/shivambhosle007/)
 [![Instagram Badge](https://img.shields.io/badge/-shivam__2709-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shivam__2709?igsh=MWx5ZDAyem85cDBpaQ==)](https://www.instagram.com/shivam__2709?igsh=MWx5ZDAyem85cDBpaQ==)
 [![Gmail Badge](https://img.shields.io/badge/-shivambhosle.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivambhosle.work@gmail.com)](mailto:shivambhosle.work@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://shivambhosle.vercel.app/)](https://shivambhosle.vercel.app/)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-%23f09a1a.svg?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/https://leetcode.com/shivam__007/)](https://www.leetcode.com/https://leetcode.com/shivam__007/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/24505518/shivam-bhosle)](https://stackoverflow.com/users/24505518/shivam-bhosle)
 [![Resume Badge](https://img.shields.io/badge/-Resume-brown?style=flat-square&logo=googledocs&logoColor=white&link=https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)](https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)
 
 
@@ -30,17 +29,17 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-%23F7931E.svg?style=flat-square&logo=mysql&logoColor=black)
-![Php](https://img.shields.io/badge/-php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-r-%23276DC3.svg?style=flat-square&logo=r)
-![Tailwind](https://img.shields.io/badge/-tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySql-%23F7931E.svg?style=flat-square&logo=mysql&logoColor=black)
+![Php](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R-%23276DC3.svg?style=flat-square&logo=r)
+![Tailwind](https://img.shields.io/badge/-Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 
 ### Libraries & Framework :
 
-![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-%23ffffff.svg?style=flat-square&logo=beautifulsoup)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-%2300599C.svg?style=flat-square&logo=beautifulsoup)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23F24E1E.svg?style=flat-square&logo=firebase)
@@ -48,13 +47,13 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B.svg?style=flat-square&logo=Flutter)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-%3DDC84C.svg?style=flat-square&logo=kotlin&logoColor=white)
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-%2300599C.svg?style=flat-square&logo=matplotlib)
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-![React](https://img.shields.io/badge/-react-%2320232a.svg?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-react_native-%2320232a.svg?style=flat-square&logo=react)
-![Scikit Learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%2300b400.svg?style=flat-square&logo=selenium&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2320232a.svg?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-%2320232a.svg?style=flat-square&logo=react)
+![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%2300b400.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
 
