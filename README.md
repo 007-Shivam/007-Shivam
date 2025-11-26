@@ -2,7 +2,9 @@
     <img src="https://komarev.com/ghpvc/?username=007-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="007-shivam" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivam Bhosle</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,27&height=180&section=header&text=SHIVAM%20BHOSLE&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header" />
+</div>
 <h3 align="center">A passionate Software Developer from India</h3>
 <h5 align="center">🤝🏻Please feel free to reach out if you want to collaborate on a project or just want to connect</h5>
 
@@ -13,12 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shivambhosle.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivambhosle.work@gmail.com)](mailto:shivambhosle.work@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://shivambhosle.vercel.app/)](https://shivambhosle.vercel.app/)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-%23f09a1a.svg?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/https://leetcode.com/shivam__007/)](https://www.leetcode.com/https://leetcode.com/shivam__007/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/24505518/shivam-bhosle)](https://stackoverflow.com/users/24505518/shivam-bhosle)
-[![Resume Badge](https://img.shields.io/badge/-Resume-brown?style=flat-square&logo=googledocs&logoColor=white&link=https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)](https://www.dropbox.com/scl/fi/wabot0mj8m5uhrjc6r2k7/Shivam-Bhosle-Resume.pdf?rlkey=a9q2n89tcs5q8fv8k2sg4sljs&dl=0)
-
-
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=007-shivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Resume Badge](https://img.shields.io/badge/-Resume-brown?style=flat-square&logo=googledocs&logoColor=white&link=https://drive.google.com/file/d/1cjUFet02qS2myK64I6MvOtS86W6pxu6K/view?usp=drive_link)](https://drive.google.com/file/d/1cjUFet02qS2myK64I6MvOtS86W6pxu6K/view?usp=drive_link)
 
 
 ### Language :
@@ -72,21 +69,24 @@
 ![Linux](https://img.shields.io/badge/Linux-%23e24d0e.svg?style=flat-square&logo=linux&logoColor=white)
 
 
-### 🏆 GitHub Trophies :
+### 📊 GitHub Activity :
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=007-SHIVAM&theme=github_dark" alt="GitHub Activity Graph" />
+</div>
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=007-shivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 	
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=007-Shivam&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="007-shivam" />
-  </a>
-</p>
-
-
-### 📊 GitHub Stats :
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=007-shivam&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=007-shivam&theme=tokyonight" />
 </p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=007-Shivam&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="007-shivam" />
+  </a>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,27&height=120&section=footer" alt="footer" />
+</div>
